@@ -15,7 +15,18 @@ export const resolvers = {
     },
 
     Mutation: {
+        addUser: async (parent, args) => {
 
+        },
+        login: async (parent, { email, password }) => {
+
+        },
+        saveBook: async (parent, { bookData }, context) => {
+
+        },
+        removeBook: async (parent, { bookId }, context) => {
+
+        }
     }
 
 }
