@@ -24,13 +24,7 @@ This work is protected under the MIT License: (https://opensource.org/licenses/M
 Fork Repo
 
 ## Usage
-
-
-## Credits
-
-
-## Tests
-
+![booksearch-application](https://user-images.githubusercontent.com/83827081/143147279-edbcc2ac-a7e0-4160-82a7-f93348f21207.png)
 
 ## Questions
 ### GitHub
